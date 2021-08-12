@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Website: https://yushkevichlar.com/
 
 ## About me
-Currently learning everything about JavaScript and React ⚛️
+- Currently learning everything about JavaScript and React ⚛️
 
-Fascinated about creating convenient, adaptive and interactive user interfaces 📱
+- Fascinated about creating convenient, adaptive and interactive user interfaces 📱
 
-Write code and improve my skills every day 😎
+- Write code and improve my skills every day 😎
