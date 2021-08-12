@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **yushkevichlar/yushkevichlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Website: https://yushkevichlar.com/ 
+Website: https://yushkevichlar.com/ ✨
+
+## About me
+---
+Currently learning everything about JavaScript and React ⚛️
+
+Open to new technologies and development opportunities 😎
+
+Fascinated about creating convenient, adaptive and interactive user interfaces 📱
