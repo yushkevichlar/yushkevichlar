@@ -22,4 +22,6 @@ My website: https://yushkevichlar.com/
 - Fascinated about creating convenient, adaptive and interactive user interfaces 📱
 
 - Write code and improve my skills every day 😎
+
+Social media 📭
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yushkevichlar)
