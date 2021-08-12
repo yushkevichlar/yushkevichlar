@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Website: https://yushkevichlar.com/ ✨
 
 ## About me
----
 Currently learning everything about JavaScript and React ⚛️
 
 Open to new technologies and development opportunities 😎
