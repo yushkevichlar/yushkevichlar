@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Website: https://yushkevichlar.com/ ✨
+Website: https://yushkevichlar.com/
 
 ## About me
 Currently learning everything about JavaScript and React ⚛️
