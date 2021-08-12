@@ -19,6 +19,6 @@ Website: https://yushkevichlar.com/
 ## About me
 Currently learning everything about JavaScript and React ⚛️
 
-Open to new technologies and development opportunities 😎
-
 Fascinated about creating convenient, adaptive and interactive user interfaces 📱
+
+Write code and improve my skills every day 😎
