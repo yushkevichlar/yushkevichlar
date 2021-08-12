@@ -23,5 +23,5 @@ My website: https://yushkevichlar.com/
 
 - Write code and improve my skills every day 😎
 
-## Social media 📭
+## Social media
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yushkevichlar)
