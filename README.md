@@ -10,4 +10,4 @@ I'm an experienced Frontend Developer who enjoys solving complex problems and le
 ![Alt Text](https://media.tenor.com/images/65308c7381d43afc2a8df9e10cf86228/tenor.gif)
 
 ![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushkevichlar&show_icons=true&theme=material-palenight&count_private=true&hide=issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushkevichlar&theme=material-palenight&langs_count=8&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushkevichlar&theme=material-palenight&langs_count=8&layout=compact)
